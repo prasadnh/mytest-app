@@ -31,7 +31,7 @@ stage 'Merge Build'
 // Below code will TAG the current state of code so that later it can be merged to Master branch
 
 sh '''
-echo " This is a Merge Build Step"
+echo " This is a Merge Build Step after changes"
 
 # Adding Tag
 git tag -a ${BUILD_TAG} -m 'CI commit tag';
