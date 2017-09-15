@@ -1,5 +1,5 @@
 ///// Common variables /////
-env.git_repo_name="git@github.com:pseudo/mytest-app.git" // update this value as created in Step 9 above
+env.git_repo_name="https://github.com/prasadnh/mytest-app.git" // update this value as created in Step 9 above
 env.git_id="99cbde22-cd2b-4df2-90d9-1c80c8be36d9"
 //git credentialsId: '99cbde22-cd2b-4df2-90d9-1c80c8be36d9', url: 'https://github.com/prasadnh/mytest-app.git'"  // update this value as created in Step 9 above
 
